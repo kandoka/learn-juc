@@ -1,11 +1,11 @@
-package com.kandoka.juc.threadc;
+package com.kandoka.juc.thread;
 
 /**
  * @Description TODO
  * @Author kandoka
  * @Date 2023/6/6 15:48
  */
-public class ThreadBaseDemo {
+public class DemoThreadBase {
     public static void main(String[] args) {
         Thread t1 = new Thread(() -> {
 
